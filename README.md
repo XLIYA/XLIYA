@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:06b6d4,100:8b5cf6&height=190&section=header&text=ILYA%20%7C%20XLIYA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="ILYA profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:dc2626,100:f87171&height=190&section=header&text=ILYA%20%7C%20XLIYA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="ILYA profile banner" />
 </p>
 
 <h1 align="center">Hey, I'm ILYA</h1>
@@ -10,14 +10,14 @@
   <a href="https://github.com/XLIYA">
     <img src="https://img.shields.io/badge/GitHub-XLIYA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Alborz%2C%20Karaj-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Alborz, Karaj" />
-  <img src="https://img.shields.io/badge/Company-MRB%20Group-22c55e?style=for-the-badge&logo=briefcase&logoColor=white" alt="MRB Group" />
+  <img src="https://img.shields.io/badge/Location-Alborz%2C%20Karaj-b91c1c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Alborz, Karaj" />
+  <img src="https://img.shields.io/badge/Company-MRB%20Group-dc2626?style=for-the-badge&logo=briefcase&logoColor=white" alt="MRB Group" />
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=760&lines=React+%2B+Next.js+%2B+TypeScript;Clean+UI%2C+fast+frontends%2C+practical+web+apps;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=760&lines=React+%2B+Next.js+%2B+TypeScript;Clean+UI%2C+fast+frontends%2C+practical+web+apps;Always+building%2C+always+learning" alt="Typing SVG" />
 </div>
 
 ###
@@ -54,28 +54,6 @@
 
 ###
 
-## Featured work
-
-<div align="center">
-  <a href="https://github.com/XLIYA/smart-data-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLIYA&repo=smart-data-dashboard&theme=dracula&hide_border=false" alt="smart-data-dashboard repository" />
-  </a>
-  <a href="https://github.com/XLIYA/RedWave-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLIYA&repo=RedWave-frontend&theme=dracula&hide_border=false" alt="RedWave frontend repository" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/XLIYA/Sofa-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLIYA&repo=Sofa-shop&theme=dracula&hide_border=false" alt="Sofa-shop repository" />
-  </a>
-  <a href="https://github.com/XLIYA/WINDOW-TOLERANCE-CALCULATOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLIYA&repo=WINDOW-TOLERANCE-CALCULATOR&theme=dracula&hide_border=false" alt="WINDOW-TOLERANCE-CALCULATOR repository" />
-  </a>
-</div>
-
-###
-
 ## GitHub stats
 
 <div align="center">
@@ -101,5 +79,5 @@
 ###
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:22c55e&height=120&section=footer" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f87171,50:dc2626,100:450a0a&height=120&section=footer" alt="Footer wave" />
 </p>
