@@ -17,8 +17,25 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=760&lines=React+%2B+Next.js+%2B+TypeScript;Clean+UI%2C+fast+frontends%2C+practical+web+apps;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=760&lines=Building+Wavify;React+%2B+Next.js+%2B+TypeScript;Clean+UI%2C+fast+frontends%2C+practical+web+apps" alt="Typing SVG" />
 </div>
+
+###
+
+## Current project
+
+<div align="center">
+  <a href="https://wavify.ir">
+    <img src="https://img.shields.io/badge/Wavify-Live%20Music%20Platform-dc2626?style=for-the-badge&logo=applemusic&logoColor=white" alt="Wavify live music platform" />
+  </a>
+  <a href="https://wavify.ir">
+    <img src="https://img.shields.io/badge/Visit-wavify.ir-450a0a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Wavify" />
+  </a>
+</div>
+
+- Running [Wavify](https://wavify.ir), a modern music streaming platform for artists and listeners.
+- Built around music discovery, tracks, albums, playlists, libraries, and artist uploads.
+- Focused on a polished app-like experience with responsive navigation and PWA-ready metadata.
 
 ###
 
