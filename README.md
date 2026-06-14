@@ -1,52 +1,105 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:06b6d4,100:8b5cf6&height=190&section=header&text=ILYA%20%7C%20XLIYA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="ILYA profile banner" />
+</p>
+
+<h1 align="center">Hey, I'm ILYA</h1>
+
+<h3 align="center">Software developer focused on modern web applications.</h3>
+
+<p align="center">
+  <a href="https://github.com/XLIYA">
+    <img src="https://img.shields.io/badge/GitHub-XLIYA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Alborz%2C%20Karaj-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Alborz, Karaj" />
+  <img src="https://img.shields.io/badge/Company-MRB%20Group-22c55e?style=for-the-badge&logo=briefcase&logoColor=white" alt="MRB Group" />
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="slack logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="50" alt="fedora logo"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=760&lines=React+%2B+Next.js+%2B+TypeScript;Clean+UI%2C+fast+frontends%2C+practical+web+apps;Always+building%2C+always+learning" alt="Typing SVG" />
 </div>
 
 ###
+
+## About me
+
+- Building practical web apps with a focus on clean UI and smooth user experience.
+- Working mostly with React, Next.js, TypeScript, JavaScript, Tailwind CSS, and Vite.
+- Comfortable with frontend workflows, API testing, version control, and deployment.
+- Based in Alborz, Karaj.
+
+###
+
+## Tech stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,vite,git,github,gitlab,figma,vercel,postman,fedora&perline=8" alt="Tech stack icons" />
 </div>
 
 ###
+
+## Tools I use
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Jira-111827?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
+  <img src="https://img.shields.io/badge/Slack-111827?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Slack" />
+</div>
+
+###
+
+## Featured work
+
+<div align="center">
+  <a href="https://github.com/XLIYA/smart-data-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLIYA&repo=smart-data-dashboard&theme=dracula&hide_border=false" alt="smart-data-dashboard repository" />
+  </a>
+  <a href="https://github.com/XLIYA/RedWave-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLIYA&repo=RedWave-frontend&theme=dracula&hide_border=false" alt="RedWave frontend repository" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/XLIYA/Sofa-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLIYA&repo=Sofa-shop&theme=dracula&hide_border=false" alt="Sofa-shop repository" />
+  </a>
+  <a href="https://github.com/XLIYA/WINDOW-TOLERANCE-CALCULATOR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XLIYA&repo=WINDOW-TOLERANCE-CALCULATOR&theme=dracula&hide_border=false" alt="WINDOW-TOLERANCE-CALCULATOR repository" />
+  </a>
+</div>
+
+###
+
+## GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XLIYA&show_icons=true&theme=dracula&hide_border=false&rank_icon=github" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XLIYA&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="160" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=XLIYA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="GitHub streak graph" />
+  <img src="https://raw.githubusercontent.com/XLIYA/XLIYA/trophy-output/trophy.svg" height="160" alt="GitHub trophy graph" />
+</div>
+
+###
+
+## Contribution game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XLIYA/XLIYA/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XLIYA/XLIYA/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/XLIYA/XLIYA/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:22c55e&height=120&section=footer" alt="Footer wave" />
+</p>
