@@ -17,12 +17,12 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=24&pause=1100&color=DC2626&center=true&vCenter=true&width=820&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Asman+%26+Wavify;Clean+UI.+Smooth+UX.+Maintainable+Code." alt="Animated introduction: React, Next.js, TypeScript, Asman, and Wavify" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=24&pause=1100&color=DC2626&center=true&vCenter=true&width=820&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Business+Apps+%26+Full-Stack+Side+Projects;Clean+UI.+Smooth+UX.+Maintainable+Code." alt="Animated introduction: React, Next.js, TypeScript, business apps, and full-stack side projects" />
 </div>
 
 ---
 
-## Current projects
+## Project highlights
 
 <table>
   <tr>
@@ -33,7 +33,7 @@
           <img src="https://img.shields.io/badge/Visit-asman--web.ir-dc2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Asman" />
         </a>
       </p>
-      <p>A dealership management platform with authentication, dashboards, customer management, parts-order tracking, surveys, analytics, and inventory workflows.</p>
+      <p>Contributed front-end features to Asman, an automotive dealership management platform used by approximately 30 dealerships, covering parts-order tracking, customer follow-up, internal evaluations, and appointment scheduling.</p>
       <p align="center"><code>Next.js</code> <code>TypeScript</code> <code>TanStack Query</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
@@ -43,8 +43,8 @@
           <img src="https://img.shields.io/badge/Visit-wavify.ir-450a0a?style=for-the-badge&logo=applemusic&logoColor=white" alt="Visit Wavify" />
         </a>
       </p>
-      <p>A Persian music streaming platform built around discovery, personalized recommendations, playlists, libraries, artist uploads, trending charts, and built-in chat.</p>
-      <p align="center"><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Socket.io</code></p>
+      <p>An independent full-stack music streaming project covering the user interface, backend integration, and real product features.</p>
+      <p align="center"><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Express</code> <code>PostgreSQL</code></p>
     </td>
   </tr>
 </table>
@@ -53,10 +53,24 @@
 
 ## About me
 
-- Front-end developer with **1+ year of professional experience** building responsive, production-grade web applications.
-- Focused on clean component architecture, accessible mobile-first interfaces, and smooth user experiences.
-- Experienced with modern state management, REST and WebSocket integration, authentication, and maintainable frontend workflows.
-- Fast learner, collaborative teammate, and Computer Engineering student based in **Karaj, Alborz, Iran**.
+- Front-end developer with **1+ year of professional experience** building web applications with **React, Next.js, and TypeScript**.
+- Delivered features, UI improvements, and bug fixes for business software, including **Asman**, used by approximately **30 automotive dealerships**.
+- Experienced in reusable components, responsive interfaces, forms, data tables, search, interactive filters, and REST API integration with loading, error, and empty states.
+- Independently build full-stack side projects to strengthen product, UI, and integration skills.
+- **B.Sc. Computer Engineering** student at Islamic Azad University, Karaj; completed a **7-month React.js bootcamp** at Maktab Sharif.
+- Based in **Karaj, Alborz, Iran** · English: **Intermediate**.
+
+### Experience
+
+**Front-End Developer · MRB Group** — May 2025 – September 2026
+
+Developed and maintained Asman frontend features across four business modules, independently handled assigned implementation and bug-fix tasks, and collaborated with teammates on integration and consistent application behavior.
+
+### Resume
+
+[📄 English resume (PDF)](./resume/Ilya_Aghaei_Resume_English.pdf) · [📄 رزومهٔ فارسی (PDF)](./resume/Ilya_Aghaei_Resume_Persian.pdf)
+
+[Download English PDF](https://raw.githubusercontent.com/XLIYA/XLIYA/main/resume/Ilya_Aghaei_Resume_English.pdf) · [دانلود PDF فارسی](https://raw.githubusercontent.com/XLIYA/XLIYA/main/resume/Ilya_Aghaei_Resume_Persian.pdf)
 
 ---
 
@@ -66,14 +80,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Asman</h3>
-      <p>Dealership management platform for customer, order, survey, analytics, and inventory workflows.</p>
+      <p>Front-end contributions to an automotive dealership platform: parts orders, customer follow-up, internal evaluations, and appointment scheduling.</p>
       <a href="https://asman-web.ir/">
         <img src="https://img.shields.io/badge/Live%20Project-Open-dc2626?style=flat-square&logo=vercel&logoColor=white" alt="Open the live Asman project" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>Wavify</h3>
-      <p>Persian music streaming experience for discovery, playlists, uploads, community, and chat.</p>
+      <p>Independent full-stack music streaming platform with an Express and PostgreSQL backend.</p>
       <a href="https://wavify.ir/">
         <img src="https://img.shields.io/badge/Live%20Project-Open-dc2626?style=flat-square&logo=vercel&logoColor=white" alt="Open the live Wavify project" />
       </a>
@@ -82,16 +96,32 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Rudo Quest</h3>
-      <p>A live web project showcasing a polished, responsive frontend experience.</p>
+      <p>Independent full-stack collaborative task-management app built with Next.js Route Handlers and Supabase.</p>
       <a href="https://rudo-quest.vercel.app/">
         <img src="https://img.shields.io/badge/Live%20Project-Open-450a0a?style=flat-square&logo=vercel&logoColor=white" alt="Open the live Rudo Quest project" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>Indigo Accessories</h3>
-      <p>A live web project built with a focus on clean UI and responsive interactions.</p>
+      <p>Independent full-stack e-commerce project built with Next.js Route Handlers and Supabase.</p>
       <a href="https://indigo-accessories.vercel.app/">
         <img src="https://img.shields.io/badge/Live%20Project-Open-450a0a?style=flat-square&logo=vercel&logoColor=white" alt="Open the live Indigo Accessories project" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Watch Store</h3>
+      <p>A watch e-commerce storefront with a responsive shopping experience.</p>
+      <a href="https://watch-store-nu-ten.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Project-Open-dc2626?style=flat-square&logo=vercel&logoColor=white" alt="Open the live Watch Store project" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Asia Khodro</h3>
+      <p>Implemented the complete frontend of a commercial vehicle deposit payment portal, including forms, validation, and a clear multi-step flow.</p>
+      <a href="https://asiakhodro9117.ir/">
+        <img src="https://img.shields.io/badge/Live%20Project-Open-dc2626?style=flat-square&logo=vercel&logoColor=white" alt="Open the live Asia Khodro project" />
       </a>
     </td>
   </tr>
@@ -110,6 +140,11 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css,vite,nodejs,git,github,figma,vercel,postman&perline=8" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Material UI, HTML, CSS, Vite, Node.js, Git, GitHub, Figma, Vercel, and Postman" />
 </div>
+
+<p align="center">
+  <code>shadcn/ui</code> <code>TanStack Query</code> <code>Zustand</code> <code>Redux Toolkit</code><br />
+  <code>REST APIs</code> <code>Socket.io</code> <code>GraphQL</code> <code>Linux</code>
+</p>
 
 ---
 
